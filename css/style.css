@@ -145,7 +145,7 @@ h5 {
   letter-spacing: 0.02em;
 }
 .mail-tel-a:hover,
-.mail-tel-a:focus address a:hover,
+.mail-tel-a:focus, address a:hover,
 address a:focus,
 .head-clickers a:hover,
 .head-clickers a:focus {
