@@ -243,6 +243,7 @@ address a:focus,
 }
 .background-item {
   background-color: var(--grey-background);
+  border-radius: 4px;
 }
 /* ====================== CO ROBIMY ================= */
 .what-we-do li {
